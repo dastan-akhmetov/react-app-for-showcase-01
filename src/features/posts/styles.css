@@ -1,0 +1,19 @@
+.Posts_Wrapper {
+  display: block;
+}
+
+.Posts_Title {
+  display: block;
+}
+
+.Posts_Cards_Wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: -20px;
+  margin-left: -20px;
+}
+
+.Posts_Cards_Item {
+  margin-top: 20px;
+  margin-left: 20px;
+}
